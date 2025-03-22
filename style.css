@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  pre{
+    color: black;
+    text-align: left;
+  }
+ img{
+    
+   image-orientation: calc();
+   border-image-width: 100;
+   
+  }
+  a{
+    color: whitesmoke;
+    align-content: center;
+    background-color: brown;
+  }
+  button {
+    color: black;
+    text-align: center;
+    font-size: 100px;
+  }
